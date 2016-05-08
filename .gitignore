@@ -235,3 +235,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Keystores and Truststores
+*.ks
+*.ts

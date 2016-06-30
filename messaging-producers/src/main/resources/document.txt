@@ -1,0 +1,28 @@
+# File data
+
+## Shows how a document can be a message
+
+A document can have all kinds of things in it. This is a simple markdown document.
+
+Markdown lets you embed stuff like:
+
+```
+<example>
+  <value>xml</value>
+</example>
+```
+
+or:
+
+```
+{ "json": true }
+```
+
+even code:
+
+```
+def embedded_function(input):
+    pass
+```
+
+Text is amazing.

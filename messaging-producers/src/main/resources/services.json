@@ -1,0 +1,23 @@
+{
+  "services" : [ {
+    "href" : "https://cloud-dashboard.illinois.edu/cbapi/1/service/322",
+    "name" : "google_apps",
+    "id" : 322,
+    "display_name" : "Google Apps @ Illinois",
+    "effective_tos_version_id" : 323,
+    "tos_versions" : [ {
+      "href" : "https://cloud-dashboard.illinois.edu/cbapi/1/tos/version/323",
+      "id" : 323
+    } ],
+    "access_href" : "http://docs.g.illinois.edu",
+    "help_href" : "https://g.illinois.edu/help"
+  }, {
+    "href" : "https://cloud-dashboard.illinois.edu/cbapi/1/service/1577",
+    "name" : "uofi_box",
+    "id" : 1577,
+    "display_name" : "U of I Box",
+    "tos_versions" : [ ],
+    "access_href" : "https://uofi.app.box.com",
+    "help_href" : "https://box-content.readme.io/reference#api-docs-directory"
+  } ]
+}
